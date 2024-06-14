@@ -6,7 +6,10 @@
 
 # Varobale,function names, clas names , -
 
-a = "234"
+a = "234" #single quotes, doule quotes / triple quotes
+af =32
+price=25.006
+
 
 print(f"My out put : {a} ")
 
